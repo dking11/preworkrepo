@@ -28,5 +28,6 @@ def index():
             even.append(i)
         else:
             odd.append(i)
-    print(odd)
-    print(even)
+index()
+print(odd)
+print(even)
